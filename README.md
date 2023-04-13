@@ -1,9 +1,9 @@
 # Awesome-Segment-Anything
-Collect some resource about Segment Anything (SAM).
+Collect some resource about Segment Anything (SAM), including latest papers and demo.
 
 ## Papers
 ###  Segment Anything original paper
-- [Segment Anything](https://arxiv.org/abs/2304.02643) [arxiv 2023] 
+- [Segment Anything](https://arxiv.org/abs/2304.02643) [arXiv 2023] 
 
 ### Technical blog
 - [English Blog] Introducing Segment Anything: Working toward the first foundation model for image segmentation [[Link](https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/)]
@@ -22,16 +22,26 @@ Collect some resource about Segment Anything (SAM).
 
 ## Application
 ### Image Segmentation
-- [[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
-- [[GroundedSAM-zero-shot-anomaly-detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)]:segment any anomaly without any training
+- [[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)]: A very interesting demo by combining Grounding DINO and Segment Anything
+
+- [[GroundedSAM-zero-shot-anomaly-detection](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)]: Segment any anomaly without any training
+
 - [[Semantic Segment Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything)]: SSA is an automated annotation engine that serves as the initial semantic labeling for the SA-1B dataset.
-- [[Magic Copy](https://github.com/kevmo314/magic-copy)]:Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
+
+- [[Magic Copy](https://github.com/kevmo314/magic-copy)]: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
+
 - [[Segment Anything with Clip](https://github.com/Curt-Park/segment-anything-with-clip)]: It aims to resolve downstream segmentation tasks with prompt engineering, such as foreground/background points, bounding box, mask, and free-formed text.
+
 - [[Prompt-Segment-Anything](https://github.com/RockeyCoss/Prompt-Segment-Anything)]: This is an implementation of zero-shot instance segmentation using Segment Anything.
+
 - [[SAM-RBox](https://github.com/Li-Qingyun/sam-mmrotate)]: This is an implementation of SAM (Segment Anything Model) for generating rotated bounding boxes with MMRotate.
-- [[Open-vocabulary-Segment-Anything](https://github.com/ngthanhtin/owlvit_segment_anything)]:An interesting demo by combining OWL-ViT of Google and Segment Anything of Meta!
-- [[SegDrawer](https://github.com/lujiazho/SegDrawer)]: Simple static web-based mask drawer, supporting semantic drawing with Segment Anything Model
-- [[MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)]:This repo is a packaged version of the segment-anything model.
+
+- [[Open-vocabulary-Segment-Anything](https://github.com/ngthanhtin/owlvit_segment_anything)]: An interesting demo by combining OWL-ViT of Google and Segment Anything of Meta!
+
+- [[SegDrawer](https://github.com/lujiazho/SegDrawer)]: Simple static web-based mask drawer, supporting semantic drawing with Segment Anything Model.
+
+- [[MetaSeg: Packaged version of the Segment Anything repository](https://github.com/kadirnar/segment-anything-video)]: This repo is a packaged version of the segment-anything model.
+
 - [[Segment Anything EO tools](https://github.com/aliaksandr960/segment-anything-eo)]: This tools are developed to ease the processing of spatial data (GeoTIFF and TMS) with Meta AI Segment Anything models using sliding window algorithm for big files.
 
 ### Labeling
@@ -39,5 +49,7 @@ Collect some resource about Segment Anything (SAM).
 
 ### Image Generation
 - [[Segment Anything for Stable Diffusion WebUI](https://github.com/continue-revolution/sd-webui-segment-anything)]: This extension aim for helping stable diffusion webui users to use segment anything to do stable diffusion inpainting.
+
 - [[IEA: Image Editing Anything](https://github.com/feizc/IEA)]: Using stable diffusion and segmentation anything models for image editing.
+
 - [[Edit Anything by Segment-Anything](https://github.com/sail-sg/EditAnything)]: This is an ongoing project aims to Edit and Generate Anything in an image, powered by Segment Anything, ControlNet, BLIP2, Stable Diffusion, etc.
