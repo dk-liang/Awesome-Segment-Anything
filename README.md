@@ -50,6 +50,9 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - [[**Segment Anything EO tools**](https://github.com/aliaksandr960/segment-anything-eo)]: This tools are developed to ease the processing of spatial data (GeoTIFF and TMS) with Meta AI Segment Anything models using sliding window algorithm for big files.
 
 - [[**SEEM**](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]: SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc 
+
+- [[**3D-Box via Segment Anything**](https://github.com/dvlab-research/3D-Box-Segment-Anything)]:  In this project, we extend the scope to 3D world by combining Segment Anything and VoxelNeXt. When we provide a prompt (e.g., a point / box), the result is not only 2D segmentation mask, but also 3D boxes.
+
 ### Labeling
 - [[**AnyLabeling**](https://github.com/vietanhdev/anylabeling)]: AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling
 
