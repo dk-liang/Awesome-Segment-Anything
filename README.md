@@ -17,7 +17,6 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - **[SEEM]** Segment Everything Everywhere All at Once [[paper](https://arxiv.org/abs/2304.06718)] [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
 - SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[paper](https://arxiv.org/abs/2304.06022)]
 - Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper](https://arxiv.org/abs/2304.05750)]
-- Semantic-Aware Mixup for Domain Generalization [[paper](https://arxiv.org/abs/2304.05675)]
 - CLIP Surgery for Better Explainability with Enhancement in Open-Vocabulary Tasks [[paper](https://arxiv.org/abs/2304.05653)]
 - SAMM (Segment Any Medical Model): A 3D Slicer Integration to SAM [[paper](https://arxiv.org/abs/2304.05622)]
 - SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model [[paper](https://arxiv.org/abs/2304.05396)]
@@ -26,14 +25,13 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - Segment Anything Model (SAM) for Digital Pathology: Assess Zero-shot Segmentation on Whole Slide Imaging [[paper](https://arxiv.org/abs/2304.04155)]
 
 ## Application
-### Image Segmentation
+
+### Image Detection/Segmentation
 - [[**Grounded-Segment-Anything**](https://github.com/IDEA-Research/Grounded-Segment-Anything)]: A very interesting demo by combining Grounding DINO and Segment Anything
 
 - [[**GroundedSAM-zero-shot-anomaly-detection**](https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection)]: Segment any anomaly without any training
 
 - [[**Semantic Segment Anything**](https://github.com/fudan-zvg/Semantic-Segment-Anything)]: SSA is an automated annotation engine that serves as the initial semantic labeling for the SA-1B dataset.
-
-- [[**Magic Copy**](https://github.com/kevmo314/magic-copy)]: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
 
 - [[**Segment Anything with Clip**](https://github.com/Curt-Park/segment-anything-with-clip)]: It aims to resolve downstream segmentation tasks with prompt engineering, such as foreground/background points, bounding box, mask, and free-formed text.
 
@@ -51,7 +49,11 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 
 - [[**SEEM**](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]: SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc 
 
+
+### 3D 
 - [[**3D-Box via Segment Anything**](https://github.com/dvlab-research/3D-Box-Segment-Anything)]:  In this project, we extend the scope to 3D world by combining Segment Anything and VoxelNeXt. When we provide a prompt (e.g., a point / box), the result is not only 2D segmentation mask, but also 3D boxes.
+
+- [[**Anything-3DNovel-View**](https://github.com/Anything-of-anything/Anything-3D)]: Combining Segment Anything and a series of 3D models
 
 ### Labeling
 - [[**AnyLabeling**](https://github.com/vietanhdev/anylabeling)]: AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling
@@ -62,3 +64,7 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - [[**IEA: Image Editing Anything**](https://github.com/feizc/IEA)]: Using stable diffusion and segmentation anything models for image editing.
 
 - [[**Edit Anything by Segment-Anything**](https://github.com/sail-sg/EditAnything)]: This is an ongoing project aims to Edit and Generate Anything in an image, powered by Segment Anything, ControlNet, BLIP2, Stable Diffusion, etc.
+
+- [[**Inpaint Anything**](https://github.com/geekyutao/Inpaint-Anything)]:  Segment Anything Meets Image Inpainting
+
+- [[**Magic Copy**](https://github.com/kevmo314/magic-copy)]: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
