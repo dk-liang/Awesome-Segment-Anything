@@ -14,6 +14,7 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - [Zhihu] Meta 发布图像分割论文 Segment Anything，将给 CV 研究带来什么影响？[[Link](https://www.zhihu.com/question/593914819)]
 
 ### arXiv papers
+- **[SEEM]** Segment Everything Everywhere All at Once [[paper](https://arxiv.org/abs/2304.06718)] [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
 - SAM Struggles in Concealed Scenes -- Empirical Study on "Segment Anything" [[paper](https://arxiv.org/abs/2304.06022)]
 - Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications [[paper](https://arxiv.org/abs/2304.05750)]
 - Semantic-Aware Mixup for Domain Generalization [[paper](https://arxiv.org/abs/2304.05675)]
@@ -48,6 +49,7 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 
 - [[**Segment Anything EO tools**](https://github.com/aliaksandr960/segment-anything-eo)]: This tools are developed to ease the processing of spatial data (GeoTIFF and TMS) with Meta AI Segment Anything models using sliding window algorithm for big files.
 
+- [[**SEEM**](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]: SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc 
 ### Labeling
 - [[**AnyLabeling**](https://github.com/vietanhdev/anylabeling)]: AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling
 
