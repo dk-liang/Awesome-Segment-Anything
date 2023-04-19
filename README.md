@@ -14,6 +14,7 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 - [Zhihu] Meta 发布图像分割论文 Segment Anything，将给 CV 研究带来什么影响？[[Link](https://www.zhihu.com/question/593914819)]
 
 ### arXiv papers
+- SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, and More [[paper](https://arxiv.org/abs/2304.09148)] [[code](https://tianrun-chen.github.io/SAM-Adaptor/)]
 - Learning to "Segment Anything" in Thermal Infrared Images through Knowledge Distillation with a Large Scale Dataset SATIR [[paper](https://arxiv.org/abs/2304.07969)] [[code](https://github.com/chenjzBUAA/SATIR)]
 - The Segment Anything foundation model achieves favorable brain tumor autosegmentation accuracy on MRI to support radiotherapy treatment planning [[paper](https://arxiv.org/abs/2304.07875)] 
 - Deep learning universal crater detection using Segment Anything Model (SAM) [[paper](https://arxiv.org/abs/2304.07764)]
