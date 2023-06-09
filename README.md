@@ -55,7 +55,7 @@ Collect some resource about Segment Anything (SAM), including latest papers and 
 
 - [[**SEEM**](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]: SEEM allows users to easily segment an image using prompts of different types including visual prompts (points, marks, boxes, scribbles and image segments) and language prompts (text and audio), etc 
 
-### Distillation
+### Distillation and Automated Labeling
 
 - [Autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models). `autodistill` features a `autodistill-grounded-sam` module that enables automated image annotation using Grounding DINO and SAM.
 
